@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY ="1234567890"; // Use environment variable
+const API_KEY ="wxaymwzttlusz4gk3"; // Use environment variable
 const BASE_URL = "https://techhk.aoscdn.com/";
 const MAXIMUM_RETRIES = 20;
 
